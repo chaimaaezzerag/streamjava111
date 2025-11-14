@@ -1,6 +1,4 @@
-
-Description du diagramme UML de l'application “Online Shopping”
-
+<img width="724" height="700" alt="12-class-diagram-online-shopping" src="https://github.com/user-attachments/assets/464dc8ec-fcbe-4cf6-aaa5-cffbbcb0c3b0" />
 Le diagramme UML présenté modélise le fonctionnement d’un système complet de commerce en ligne. Il décrit les principales entités du système, leurs attributs, ainsi que les relations qui existent entre elles. L’objectif est de représenter toutes les étapes du processus d’achat, depuis la connexion de l’utilisateur jusqu’à la création d’une commande et son paiement.
 
 🔹 1. WebUser
